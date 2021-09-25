@@ -1,0 +1,18 @@
+EJERCICIO 4:
+
+1. Paso a paso: 
+
+ • Solicitar al usuario las inversiones de cada persona
+ • Crear variables para cada porcentaje
+ • Sacar el total del dinero invertido
+ • Dividir el total invertido entre cada una de las inversiones
+ • Dividir 100 entre el resultado anterior para cada inversion
+ • Mostrar en pantalla el porcentaje equivalente a cada inversión
+ • (Comprobacion: al sumar cada porcentaje el resultado debe ser aproximado a 100)
+
+2. Análisis: 
+
+ Contexto: Se quiere montar una empresa y 3 personas hace su respectiva inversión, se debe calcular que porcentaje equivale a cada  inversión 
+ Entradas: inversion1, inversion2, inversion3
+ Procesos: sumar cada inversión para obtener el total, dividir el total entre cada inversión, dividir 100 entre el resultado anterior para  cada inversión, imprimir cada porcentaje
+ Salidas: porcentajeInversion1, porcentajeInversion2, porcentajeInversion3

@@ -1,0 +1,15 @@
+EJERCICIO 1:
+
+1. Paso a paso: 
+
+ • Solicitar al usuario un numero límite de números aleatorios.
+ • Solicitar esa cantidad de veces un numero aleatorio
+ • Almacenar en una variable la suma de estos números
+ • El resultado de la variable anterior dividirlo entre el limite
+
+2. Análisis:
+
+ Contexto: Sacar el promedio entre n números aleatorios
+ Entradas: limite, números
+ Procesos: sumar números y dividir el resultado entre limite
+ Salidas: promedio 

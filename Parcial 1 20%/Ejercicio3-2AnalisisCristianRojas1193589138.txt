@@ -1,0 +1,15 @@
+EJERCICIO 3.2:
+
+1. Paso a paso: 
+
+ • Solicitar al usuario su salario antiguo
+ • Calcular el valor del incremento en base al salario antiguo
+ • Sumar el incremento al salario actual
+ • Imprimir en pantalla el nuevo salario obtenido
+
+2. Análisis: 
+
+ Contexto: calcular el incremento del 25% a un salario
+ Entradas: salario antiguo
+ Procesos: sacar el 25% al salario antiguo, sumar el resultado al salario antiguo
+ Salidas: nuevo salario

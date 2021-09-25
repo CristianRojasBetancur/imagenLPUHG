@@ -1,0 +1,111 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+306
+Ejercicios seguimietno 10%. Autor: Cristian Rojas Betancur. Grupo: 000202010-1 Leer un número, validar si es negativo, neutro o positivo. Si el numero es positivo, imprimirlo en pantalla y sacar su doble, triple y cuadruplo. Validar si el numero es par, multiplo de 3, multiplo de 5 o todas las anteriores.
+6
+3
+5
+Npor4
+1
+0
+5
+Npor2
+1
+0
+5
+Npor3
+1
+0
+4
+1
+19
+'Ingrese un numero'
+5
+1
+1
+n
+7
+0
+1
+7
+(n > 0)
+7
+0
+1
+5
+n < 0
+4
+1
+29
+'El numero ', n, ' es neutro'
+13
+4
+1
+31
+'El numero ', n, ' es negativo'
+13
+13
+6
+3
+5
+Npor2
+5
+n * 2
+5
+Npor3
+5
+n * 3
+5
+Npor4
+5
+n * 4
+7
+0
+1
+49
+(n mod 2 = 0) and (n mod 3 = 0) and (n mod 5 = 0)
+7
+0
+1
+11
+n mod 2 = 0
+7
+0
+1
+11
+n mod 3 = 0
+7
+0
+1
+11
+n mod 5 = 0
+13
+4
+1
+134
+n, ' es positivo. ', Npor2, ' es su doble, ', Npor3, ' es su triple y ', Npor4, ' es su cuadruplo. ', n, ' solamente es multiplo de 5'
+13
+13
+4
+1
+134
+n, ' es positivo. ', Npor2, ' es su doble, ', Npor3, ' es su triple y ', Npor4, ' es su cuadruplo. ', n, ' solamente es multiplo de 3'
+13
+13
+4
+1
+124
+n, ' es positivo. ', Npor2, ' es su doble, ', Npor3, ' es su triple y ', Npor4, ' es su cuadruplo. ', n, ' solamente es par'
+13
+13
+4
+1
+145
+n, ' es positivo. ', Npor2, ' es su doble, ', Npor3, ' es su triple y ', Npor4, ' es su cuadruplo. ', n, ' es par, multiplo de 3 y multiplo de 5'
+13
+13
+1

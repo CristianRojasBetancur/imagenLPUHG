@@ -1,0 +1,18 @@
+EJERCICIO 2:
+
+1. Paso a paso: 
+
+ • Solicitar al usuario el tipo de flor que polinizo la abeja
+ • Solicitar al usuario la cantidad de hectáreas polinizadas por la abeja
+ • Para cada tipo de flor implementar la forma en que se obtiene el polen:
+    Para el girasol multiplicar 2 por la cantidad de hectáreas recorridas
+    Para la rosa multiplicar 1.8 por la cantidad de hectáreas recorridas
+    Para el pompón multiplicar por 2.4 por la cantidad de hectáreas recorridas
+ • Mostrar la cantidad de polen recolectado en toneladas
+
+2. Análisis: 
+
+ Contexto: Calcular el polen obtenido por las abejas según el tipo de flor libada
+ Entradas: tipo de flor, cantidad de hectáreas
+ Procesos: Multiplicar la cantidad de hectáreas recorridas por el numero de polen dado según corresponda a su tipo de flor
+ Salidas: polen recolectado 

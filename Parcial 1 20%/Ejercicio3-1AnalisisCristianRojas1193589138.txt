@@ -1,0 +1,15 @@
+EJERCICIO 3.1:
+
+1. Paso a paso: 
+
+ • Solicitar al usuario la cantidad de horas trabajadas
+ • Solicitar al usuario el valor de una hora en su trabajo
+ • Multiplicar la cantidad de horas trabajadas por el valor de la hora
+ • Mostrar en pantalla el resultado de la operación anterior
+
+2. Análisis: 
+
+ Contexto: calcular el salario de un trabajador pagado por horas
+ Entradas: valorHora, horasTrabajadas
+ Procesos: Multiplicar las horasTrabajadas por el valorHora
+ Salidas: salario
